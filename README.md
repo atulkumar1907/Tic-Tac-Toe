@@ -1,3 +1,3 @@
-# Toggle_Switch
+# Tic Tac Toe
 
-A Simple Toggle Switch made using HTML, Vanilla CSS
+A Simple ic Tac Toe made using HTML, CSS and javaScript
